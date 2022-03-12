@@ -86,3 +86,21 @@ margin-top: 10%;
     background-repeat: no-repeat;
     overflow: hidden;
 }
+
+#name {
+    padding-left: 13%;
+    
+}
+
+#email {
+    padding-left: 10%;
+}
+
+#message {
+    padding-left: 7%;
+    padding-right: 9%;
+   
+}
+#leave {
+    padding-left: 8%;
+}
