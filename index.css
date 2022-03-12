@@ -62,4 +62,18 @@ h2 {
     }
 }
 
+#services {
+    background-image:url(https://user-images.githubusercontent.com/66039545/158004254-f1aac60a-78ca-4c83-9679-e49ea445403e.jpg);
+    height: 50vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+/* h3{
+margin-top: 10%;
+} */
+
 
