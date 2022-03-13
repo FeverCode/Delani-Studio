@@ -3,7 +3,7 @@ $(document).ready(function () {
     $("#design-col").click(function () {
         $("#design").toggle();
         $("#design-icon").toggle();
-        
+
 
     });
 
@@ -19,11 +19,15 @@ $(document).ready(function () {
         $("#management-icon").toggle()
     });
 
-    $(".innerdiv").hover(function(){
-        $(this).animate({opacity:'1'});
-    },
-    function(){
-        $(this).animate({opacity:'0'});
-    })
+    $(".innerdiv").hover(function () {
+            $(this).animate({
+                opacity: '1'
+            });
+        },
+        function () {
+            $(this).animate({
+                opacity: '0'
+            });
+        })
 
 });
