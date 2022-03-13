@@ -13,7 +13,7 @@
 + [Licence](#licence)
 + [Authors Info](#authors-info)
 
-![Screenshot]()
+![Screenshot](https://github.com/FeverCode/Delani-Studio/blob/main/Delani-Screenshot.png)
 
 ## Description
 <p>This is a fictional software development studio website built with HTML, CSS, Bootstrap, JavaScript & jQuery. The website showcases a Landing Page, About Us, Services, Project Portfolio, Clients & Contact Form</p>
