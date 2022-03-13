@@ -179,3 +179,7 @@ h1 {
 #leave {
     padding-left: 8%;
 }
+
+.design, .development, .management {
+    display: none;
+}
