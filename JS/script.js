@@ -1,26 +1,22 @@
-
 // user interface logic
-$(document).ready(function(){
-    $("#design").click(function() {
-        $(".design").toggle();
+$(document).ready(function () {
+    $("#design-col").click(function () {
+        $("#design").toggle();
+        $("#design-icon").toggle();
+        
+
     });
 
 
-});
-
-$(document).ready(function(){
-    $("#development").click(function() {
-        $(".development").toggle();
+    $("#development-col").click(function () {
+        $("#development").toggle();
+        $("#development-icon").toggle()
     });
 
 
-});
-
-$(document).ready(function(){
-    $("#management").click(function() {
-        $(".management").toggle();
+    $("#management-col").click(function () {
+        $("#management").toggle();
+        $("#management-icon").toggle()
     });
 
-
 });
-
