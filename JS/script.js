@@ -31,3 +31,10 @@ $(document).ready(function () {
         })
 
 });
+
+$(document).ready(function() {
+    $("mc-embedded-subscribe-form").on("submit", function (e) {
+        e.preventDefault();
+    });
+});
+
