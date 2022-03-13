@@ -19,4 +19,11 @@ $(document).ready(function () {
         $("#management-icon").toggle()
     });
 
+    $(".innerdiv").hover(function(){
+        $(this).animate({opacity:'1'});
+    },
+    function(){
+        $(this).animate({opacity:'0'});
+    })
+
 });

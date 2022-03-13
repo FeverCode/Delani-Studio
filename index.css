@@ -85,7 +85,7 @@ h1 {
     overflow: hidden;
     width: 366px;
     height: 300px;
-    padding: 10px;
+    padding: 30px;
 
 }
 
@@ -97,7 +97,7 @@ h1 {
     overflow: hidden;
     width: 366px;
     height: 300px;
-    padding: 10px;
+    padding: 30px;
 
 }
 
@@ -109,7 +109,7 @@ h1 {
     overflow: hidden;
     width: 366px;
     height: 300px;
-    padding: 10px;
+    padding: 30px;
 }
 
 .jim {
@@ -120,7 +120,7 @@ h1 {
     overflow: hidden;
     width: 366px;
     height: 300px;
-    padding: 10px;
+    padding: 30px;
 }
 
 .good {
@@ -131,7 +131,7 @@ h1 {
     overflow: hidden;
     width: 366px;
     height: 300px;
-    padding: 10px;
+    padding: 30px;
 }
 
 .sound {
@@ -142,7 +142,7 @@ h1 {
     overflow: hidden;
     width: 366px;
     height: 300px;
-    padding: 10px;
+    padding: 30px;
 }
 
 .burned {
@@ -153,7 +153,7 @@ h1 {
     overflow: hidden;
     width: 366px;
     height: 300px;
-    padding: 10px;
+    padding: 30px;
 }
 
 .bailey {
@@ -164,7 +164,7 @@ h1 {
     overflow: hidden;
     width: 366px;
     height: 300px;
-    padding: 10px;
+    padding: 30px;
 }
 
 
@@ -176,7 +176,7 @@ h1 {
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
-    
+
 }
 
 #message {
@@ -194,7 +194,12 @@ h1 {
 }
 
 .innerdiv {
-    border: 1px solid white;
+    border: 5px solid white;
     height: 100%;
     width: 100%;
+    opacity: 0;
+}
+
+.innerdiv p {
+    font-size: 30px;
 }
