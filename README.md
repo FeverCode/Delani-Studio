@@ -16,21 +16,23 @@
 ![Screenshot](https://github.com/FeverCode/Delani-Studio/blob/main/Delani-Screenshot.png)
 
 ## Description
-<p>This is a fictional software development studio website built with HTML, CSS, Bootstrap, JavaScript & jQuery. The website showcases a Landing Page, About Us, Services, Project Portfolio, Clients & Contact Form</p>
+<p>This is a fictional software development studio website built with HTML, CSS, Bootstrap, JavaScript & jQuery. The website showcases a Landing Page, About Us, Services, Project Portfolio, Clients & Contact Form.The user is able to input their name, email and A message, which are sent to maichimp by use of mailchimp API</p>
 
 <P>Below is the live link to the project</P>
 
 [Delani Studo](https://fevercode.github.io/Delani-Studio/)
 
 ## Installation
-In terminal `git clone https://github.com/FeverCode/Delani-Studio` to your desired local folder.
-Cd in to the cloned repo and open the folder on your preferred code editor.
-launch the index.html file on your preferred broswer.
+* In terminal `git clone https://github.com/FeverCode/Delani-Studio` to your desired local folder.
+* Cd in to the cloned repo and open the folder on your preferred code editor.
+* Launch the index.html file on your preferred broswer.
 
 ## Dependecies
 
-To clone this project to your local folder, you will first need to install git. Use this command in your terminal 
+* To clone this project to your local folder, you will first need to install git. Use this command in your terminal 
 `$ sudo apt install git-all`
+* Mailchimp API to send contact form input to mailchimp
+
 
 ## Requirements
 
