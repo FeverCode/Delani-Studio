@@ -41,7 +41,6 @@ $(document).ready(function () {
         var name = $("#mce-FNME").val();
         var email = $("#mce-EMAIL").val();
         var message = $("mce-MESSAGE").val();
-        $("#returnmessage").empty();
 
         if (name == '' || email == '' || message == '') {
             alert("Please Fill Required Fields")
