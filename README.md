@@ -14,7 +14,7 @@
 + [Authors Info](#authors-info)
 
 ![Screenshot](https://github.com/FeverCode/Delani-Studio/blob/main/Delani-Screenshot.png)
-![Mailchimp Screenshot]()
+![Mailchimp Screenshot](https://github.com/FeverCode/Delani-Studio/blob/main/Mailchimp%20Screenshot.png)
 ## Description
 <p>This is a fictional software development studio website built with HTML, CSS, Bootstrap, JavaScript & jQuery. The website showcases a Landing Page, About Us, Services, Project Portfolio, Clients & Contact Form.The user is able to input their name, email and A message, which are sent to maichimp by use of mailchimp API</p>
 
