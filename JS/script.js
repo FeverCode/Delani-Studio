@@ -32,9 +32,23 @@ $(document).ready(function () {
 
 });
 
-$(document).ready(function() {
+$(document).ready(function () {
     $("mc-embedded-subscribe-form").on("submit", function (e) {
         e.preventDefault();
     });
-});
 
+    $(".submit").click(function () {
+        var name = $("#mce-FNME").val();
+        var email = $("#mce-EMAIL").val();
+        var message = $("mce-MESSAGE").val();
+        $("#returnmessage").empty();
+
+        if (name == '' || email == '' || message == '') {
+            alert("Please Fill Required Fields")
+
+        } else
+            alert("Thank you " + name + "" + " We Have Received Your Mesaage")
+
+
+    });
+});
