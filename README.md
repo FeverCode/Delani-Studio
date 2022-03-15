@@ -20,7 +20,7 @@
 
 <P>Below is the live link to the project</P>
 
-[Delani Studo](https://fevercode.github.io/Delani-Studio/)
+[Delani Studio](https://fevercode.github.io/Delani-Studio/)
 
 ## Installation
 * In terminal `git clone https://github.com/FeverCode/Delani-Studio` to your desired local folder.
