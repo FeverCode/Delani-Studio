@@ -43,10 +43,10 @@ $(document).ready(function () {
         var message = $("mce-MESSAGE").val();
 
         if (name == '' || email == '' || message == '') {
-            alert("Please Fill Required Fields")
+            alert("Please Fill in Required Fields!")
 
         } else
-            alert("Thank you " + name + "" + " We Have Received Your Mesaage")
+            alert("Thank you " + name + "" + " We Have Received Your Mesaage!")
 
 
     });
